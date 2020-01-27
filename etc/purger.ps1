@@ -1,0 +1,1 @@
+& C:\Python27\python.exe \\data1\shared\mail_mill\etc\purger.py
