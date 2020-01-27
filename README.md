@@ -17,11 +17,15 @@ Once the files are in place you should copy them elsewhere for safekeeping. If y
 
 * File names exceeding 100 characters will be shortened.
 
+```
+
 |--Converted
    |--{Date-downloaded}_{Email-Subject}_{Sender}.eml
    |--{Date-downloaded}_{Email-Subject}_{Sender}.eml.pdf
    |--{Date-downloaded}_{Email_Subject}_{Sender}.eml-attachments
       |--{Original attachments filenames}
+
+```
 
 ### EML
 
